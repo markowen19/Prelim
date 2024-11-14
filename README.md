@@ -36,3 +36,6 @@ TechFolio Mobile App.
 # Tabs Screen
 <img src="assets/images/screenshot/tabs3.jpg">  
 
+# walkthrough
+* https://youtu.be/_7CfM7DugD4
+
