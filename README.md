@@ -1,11 +1,10 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# Kick It Up
+Kick It Up
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Orders 
+* Quality Shoes
+* Affordable prices
 
 # Course Overview
 * Basic React Native Components
